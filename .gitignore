@@ -1,0 +1,23 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Temp & logs
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
